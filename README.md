@@ -1,4 +1,4 @@
-# EjerciciosC
+# Lab introduction C
 
 ## Statement 1:
 
